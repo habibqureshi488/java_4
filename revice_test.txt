@@ -1,0 +1,10 @@
+
+// const numberOfStudents = 1000000; // 1 million students
+
+// const studentsArray = [];
+// for (let i = 0; i < numberOfStudents; i++) {
+//   studentsArray.push(`Student ${i}`);
+// }
+
+// console.log(studentsArray.length); // Output the length of the array
+
